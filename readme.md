@@ -17,4 +17,4 @@ Screenshot of Page
 
 <img src="./assets/images/scheduler 1.PNG">
 
-Link:
+Link: https://vtsander.github.io/Scheduler/
