@@ -1,5 +1,7 @@
 Scheduler
 
+A planner made for daily use. Uses Javascript, Bootstrap, and JQuery.
+
 TO DO:
 
 
